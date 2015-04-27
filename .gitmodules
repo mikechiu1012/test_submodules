@@ -1,6 +1,3 @@
 [submodule "sub_modules"]
 	path = sub_modules
 	url = git@github.com:mikechiu1012/test_submodules.git
-[submodule "modules/submodules_001"]
-	path = modules/submodules_001
-	url = git@github.com:mikechiu1012/submodules_001.git
